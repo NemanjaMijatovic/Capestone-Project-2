@@ -1,0 +1,96 @@
+body{
+    text-align: center;
+    align-items: center;
+    display: block;
+}
+div{
+    display: block;
+}
+.container-top {
+        background-color: rgb(210, 229 , 244);
+        position: relative;
+        text-align: center;
+        width: auto;
+        height: 800px;
+}
+.naslov1 {
+    text-align: center;
+    padding-top: 150px;
+    font-family: 'Dancing Script', cursive;
+    font-weight: 600;
+    font-size: 5rem;
+}
+.naslov2 {
+    text-align: center;
+    padding-top: 90px;
+    font-size: 2.3rem;
+}
+.moja-slika{
+    border-radius: 50%;
+    margin: 10px;
+    margin-top: 10px;
+    width:700px;
+    height: 280px;
+}
+.paragraf1 {
+    font-family: 'PT Serif', serif;
+    margin-top: 30px;
+}
+.img-fluid {
+    height: 150px;
+    width: 150px;
+    align-items: start;
+    display: grid;
+
+}
+.skills{
+    margin-top: 50px;
+    font-family: 'PT Serif', serif;
+    text-align: center;
+    margin-bottom: 22px;
+
+}
+.parent{
+    display: grid;
+    justify-content: center;
+    row-gap: 50px;
+    column-gap: 50px;
+    grid-template-columns: 300px 300px;
+    grid-template-rows: 200px 200px;
+}
+.coding-picture{
+    padding-top: 15px;
+    width: 180px;
+    height: 150px;
+}
+.landscape{
+    padding-top: 50px;
+    height: 300px;
+    width: 500px;
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+}
+.tekst {
+    padding-left: 15px;
+    padding-top: 45px;
+    text-align: left;
+}
+.tekst-fudbal {
+    padding-top: 9px;
+}
+.fudbalska-lopta-slika{
+    width: 180px;
+    height: 150px;
+
+}
+.container1{
+    background-color: #87C4FF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.link1{
+    color: #435585;
+    font-weight: 400;
+}
